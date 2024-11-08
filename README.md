@@ -15,6 +15,9 @@ Stay informed, be the change. Subscribe now :)
    },
   "tools": ["aws", "terraform", "kubernetes", "docker", "ansible", "git",
           "amazon linux 2023", "ubuntu", "jenkins", "mariadb", "nginx", "tomcat",
-          "redis", "python", "mongodb", "basic networking", "devsecops"]
+          "redis", "python", "mongodb", "basic networking", "devsecops"],
+  # "experience": [
+  #  {"title": "", "company": "", "location": "CITY - COUNTRY", "date": "START - END", "duties": []},
+  # ]
 }
 ```
