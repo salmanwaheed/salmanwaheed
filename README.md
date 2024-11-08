@@ -8,6 +8,7 @@ Stay informed, be the change. Subscribe now :)
   "phone": "🧐",
   "location": {"country": "UAE", "emirate": "Dubai"},
   "coverage": ["UAE", "Pakistan"],
+  "industry": ["e-commerce", "fintech"],
   "social_urls": {
       "github": "github.com/salmanwaheed",
       "youtube": "youtube.com/@salmanwaheed"
