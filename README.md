@@ -8,7 +8,7 @@ Stay informed, be the change. Subscribe now :)
   "phone": "🧐",
   "location": {"country": "UAE", "emirate": "Dubai"},
   "coverage": ["UAE", "Pakistan"],
-  "social_media": {
+  "social_urls": {
       "github": "https://github.com/salmanwaheed",
       "youtube": "https://youtube.com/@salmanwaheed"
    },
