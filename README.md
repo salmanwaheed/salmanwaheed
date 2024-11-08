@@ -17,7 +17,7 @@ Stay informed, be the change. Subscribe now :)
           "amazon linux 2023", "ubuntu", "jenkins", "mariadb", "nginx", "tomcat",
           "redis", "python", "mongodb", "basic networking", "devsecops"],
   # "experience": [
-  #  {"title": "", "company": "", "location": "CITY - COUNTRY", "date": "START - END", "duties": []},
+  #  {"title": "", "company": "", "location": {"country": "", "city": ""}, "date": {"start": "", "end": ""}, "duties": []},
   # ]
 }
 ```
