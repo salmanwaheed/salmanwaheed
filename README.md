@@ -9,8 +9,8 @@ Stay informed, be the change. Subscribe now :)
   "location": {"country": "UAE", "emirate": "Dubai"},
   "coverage": ["UAE", "Pakistan"],
   "social_urls": {
-      "github": "https://github.com/salmanwaheed",
-      "youtube": "https://youtube.com/@salmanwaheed"
+      "github": "github.com/salmanwaheed",
+      "youtube": "youtube.com/@salmanwaheed"
    },
   "tools": ["aws", "terraform", "kubernetes", "docker", "ansible", "git",
           "amazon linux 2023", "ubuntu", "jenkins", "mariadb", "nginx", "tomcat",
