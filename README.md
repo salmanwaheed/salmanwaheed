@@ -13,9 +13,10 @@ Stay informed, be the change. Subscribe now :)
       "github": "github.com/salmanwaheed",
       "youtube": "youtube.com/@salmanwaheed"
    },
-  "tools": ["aws", "terraform", "kubernetes", "docker", "ansible", "git",
-          "amazon linux 2023", "ubuntu", "jenkins", "mariadb", "nginx", "tomcat",
-          "redis", "python", "mongodb", "basic networking", "devsecops"],
+  "tools": ["Cloud Computing", "Basic Networking", "Security (DevSecOps)",
+          "AWS", "Terraform", "Kubernetes", "Docker", "Ansible", "git",
+          "Amazon Linux", "CentOS", "Ubuntu", "Jenkins", "SQL",
+          "NGINX", "Tomcat", "Redis", "Python", "Bash Scripting"],
   # "experience": [
   #  {"title": "", "company": "", "location": {"country": "", "city": ""}, "date": {"start": "", "end": ""}, "duties": []},
   # ]
