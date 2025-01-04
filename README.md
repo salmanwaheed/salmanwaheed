@@ -15,8 +15,8 @@ Stay informed, be the change. Subscribe now :)
    },
   "tools": ["Cloud Computing", "Basic Networking", "Security (DevSecOps)",
           "AWS", "Terraform", "Kubernetes", "Docker", "Ansible", "git",
-          "Amazon Linux", "CentOS", "Ubuntu", "Jenkins", "SQL",
-          "NGINX", "Tomcat", "Redis", "Python", "Bash Scripting"],
+          "Linux", "Jenkins", "SQL", "gitops (ArgoCD)", "Bash Scripting",
+          "NGINX", "Tomcat", "Redis", "Python"],
   # "experience": [
   #  {"title": "", "company": "", "location": {"country": "", "city": ""}, "date": {"start": "", "end": ""}, "duties": []},
   # ]
