@@ -2,24 +2,33 @@ Breaking down complex issues into Simple, Direct, and Informative words: That's 
 
 Stay informed, be the change. Subscribe now :)
 
-```python3
+```json
 { "name": "Salman Waheed",
   "title": "Senior DevOps Engineer",
   "phone": "🧐",
-  "location": {"country": "UAE", "emirate": "Dubai"},
+  "email": "🥊",
+  "location": "Dubai - UAE",
   "coverage": ["UAE", "Pakistan"],
   "industry": ["e-commerce", "fintech"],
+  // "summary": "",
   "social_urls": {
       "github": "github.com/salmanwaheed",
       "youtube": "youtube.com/@salmanwaheed"
    },
   "tools": ["Cloud Computing", "Basic Networking", "Security (DevSecOps)",
           "AWS", "Terraform", "Kubernetes", "Docker", "Ansible", "git",
-          "Linux", "Jenkins", "SQL", "gitops (ArgoCD)", "Bash Scripting",
+          "Linux", "Jenkins", "SQL", "GitOps (ArgoCD)", "Scripting (Bash, Python)",
           "Observability (prometheus, grafana, loki, promtail, promql)",
-          "NGINX", "Tomcat", "Redis", "Python"],
-  # "experience": [
-  #  {"title": "", "company": "", "location": {"country": "", "city": ""}, "date": {"start": "", "end": ""}, "duties": []},
-  # ]
+          "NGINX", "Tomcat", "Redis"],
+  "education": [
+    "Bachelor of Science in Computer Science (2020)",
+    "RHCSA (2018)",
+    "AWS Solutions Architect - Associate (2015)",
+    "Diploma in Information Technology (2015)",
+    "CCNA R&S (2012)",
+  ],
+  // "experience": [
+  // {"title": "", "company": "", "location": "CITY - COUNTRY", "start_date": "", "end_date": "", "duties": []},
+  // ]
 }
 ```
