@@ -10,15 +10,15 @@ Stay informed, be the change. Subscribe now :)
   "location": "Dubai - UAE",
   "coverage": ["UAE", "Pakistan"],
   "industry": ["e-commerce", "fintech"],
-  // "summary": "",
+  "summary": "With over 9 years of experience in E-commerce and FinTech, I specialize in orchestrating both microservices and monolithic architectures. I am proficient in AWS, Kubernetes, Docker, Infrastructure as Code, CI/CD pipelines, version control, databases, and security practices. My background as a System Administrator further strengthens my expertise in managing, troubleshooting, and securing IT environments to ensure reliability and security.",
   "social_urls": {
       "github": "github.com/salmanwaheed",
       "youtube": "youtube.com/@salmanwaheed"
    },
-  "tools": ["Cloud Computing", "Basic Networking", "Security (DevSecOps)",
-          "AWS", "Terraform", "Kubernetes", "Docker", "Ansible", "git",
-          "Linux", "Jenkins", "SQL", "GitOps (ArgoCD)", "Scripting (Bash, Python)",
-          "Observability (prometheus, grafana, loki, promtail, promql)",
+  "tools": ["Cloud Computing", "Networking & Security (DevSecOps)", "Linux",
+          "Scripting (Bash, Python)", "GitOps (ArgoCD)", "Microservices",
+          "AWS", "Terraform", "Kubernetes", "Docker", "Ansible", "Git", "Jenkins",
+          "SQL", "Monitoring & Logging (prometheus, grafana, loki, promtail, promql)",
           "NGINX", "Tomcat", "Redis"],
   "education": [
     "Bachelor of Science in Computer Science (2020)",
