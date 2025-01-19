@@ -16,7 +16,7 @@ Stay informed, be the change. Subscribe now :)
       "youtube": "youtube.com/@salmanwaheed"
    },
   "tools": ["Cloud Computing", "Networking & Security (DevSecOps)", "Linux",
-          "Scripting (Bash, Python)", "GitOps (ArgoCD)", "Microservices",
+          "Scripting (Bash, Python)", "GitOps (ArgoCD, Flux)", "Monolithic & Microservices",
           "AWS", "Terraform", "Kubernetes", "Docker", "Ansible", "Git", "Jenkins",
           "SQL", "Monitoring & Logging (prometheus, grafana, loki, promtail, promql)",
           "NGINX", "Tomcat", "Redis"],
