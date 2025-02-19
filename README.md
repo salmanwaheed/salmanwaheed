@@ -15,10 +15,10 @@ Stay informed, be the change. Subscribe now :)
       "github": "github.com/salmanwaheed",
       "youtube": "youtube.com/@salmanwaheed"
    },
-  "tools": ["Cloud Computing", "Networking & Security (DevSecOps)", "Linux",
-          "Scripting (Bash, Python)", "GitOps (ArgoCD, Flux)", "Monolithic & Microservices",
-          "AWS", "Terraform", "Kubernetes", "Docker", "Ansible", "Git", "Jenkins",
-          "SQL", "Monitoring & Logging (prometheus, grafana, loki, promtail, promql)",
+  "tools": ["AWS", "Terraform", "Kubernetes", "Docker", "Ansible", "Git", "Linux", "Jenkins",
+          "GitOps (ArgoCD, FluxCD)", "Monolithic & Microservices", "Database (SQL)",
+          "Cloud Computing", "Networking", "Security (DevSecOps)", "Scripting (Bash, Python)",
+          "Monitoring & Logging (prometheus, grafana, loki, promtail, promql)",
           "NGINX", "Tomcat", "Redis"],
   "education": [
     "Bachelor of Science in Computer Science (2020)",
