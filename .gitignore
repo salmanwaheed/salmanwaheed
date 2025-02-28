@@ -1,0 +1,3 @@
+.DS_Store
+__*py*__
+*resume*.[pdf|docx|md|json] # ATS friendly resume

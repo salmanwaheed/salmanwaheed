@@ -1,34 +1,31 @@
-Breaking down complex issues into Simple, Direct, and Informative words: That's my video style.
-
-Stay informed, be the change. Subscribe now :)
+# Generate resume via JSON
 
 ```json
-{ "name": "Salman Waheed",
-  "title": "Senior DevOps Engineer",
-  "phone": "🧐",
-  "email": "🥊",
-  "location": "Dubai - UAE",
-  "coverage": ["UAE", "Pakistan"],
+{
+  "name": "Salman Waheed",
+  "current_job_title": "Senior DevOps Engineer",
+  "number": "-",
+  "email": "-",
+  "location": "Karachi, Pakistan (Working Remotely)",
   "industry": ["e-commerce", "fintech"],
-  "summary": "With over 9 years of experience in E-commerce and FinTech, I specialize in orchestrating both microservices and monolithic architectures. I am proficient in AWS, Kubernetes, Docker, Infrastructure as Code, CI/CD pipelines, version control, databases, and security practices. My background as a System Administrator further strengthens my expertise in managing, troubleshooting, and securing IT environments to ensure reliability and security.",
-  "social_urls": {
-      "github": "github.com/salmanwaheed",
-      "youtube": "youtube.com/@salmanwaheed"
-   },
-  "tools": ["AWS", "Terraform", "Kubernetes", "Docker", "Ansible", "Git", "Linux", "Jenkins",
-          "GitOps (ArgoCD, FluxCD)", "Monolithic & Microservices", "Database (SQL)",
-          "Cloud Computing", "Networking", "Security (DevSecOps)", "Scripting (Bash, Python)",
-          "Monitoring & Logging (prometheus, grafana, loki, promtail, promql)",
-          "NGINX", "Tomcat", "Redis"],
-  "education": [
-    "Bachelor of Science in Computer Science (2020)",
-    "RHCSA (2018)",
-    "AWS Solutions Architect - Associate (2015)",
-    "Diploma in Information Technology (2015)",
-    "CCNA R&S (2012)",
+  "links": {
+    "github": "https://github.com/salmanwaheed",
+    "linkedin": "https://linkedin.com/in/salman-w-a5b0a51a4",
+    "youtube": "https://youtube.com/@salmanwaheed"
+  },
+  "professional_summary": "Over 9 years of experience in E-commerce and FinTech, specializing in cloud infrastructure, automation, and CI/CD. Skilled in AWS, Terraform, Kubernetes, Docker, Ansible, Git, Jenkins, Linux, GitOps, SQL, and Bash scripting. Passionate about building secure, scalable, and efficient systems",
+  "technical_skills": [
+    "AWS (EC2, S3, RDS, EKS, ECR, VPC, EBS, EFS, ALB, IAM, ACM, Route 53, Parameter Store, etc)", "Terraform", "Kubernetes", "Docker", "Ansible", "Git", "Linux", "Jenkins", "GitOps", "SQL", "Bash Scripting", "Prometheus", "Grafana", "Loki", "Promtail", "PromQL"
   ],
-  // "experience": [
-  // {"title": "", "company": "", "location": "CITY - COUNTRY", "start_date": "", "end_date": "", "duties": []},
-  // ]
+  "education": [
+    "B.Sc. Computer Science (2021)",
+    "Diploma in Information Technology (2015)",
+    "Red Hat Certified System Administrator (RHCSA) (2018)",
+    "AWS Solutions Architect Associate (2015)",
+    "Cisco Certified Network Associate (CCNA R&S) (2012)"
+  ],
+  "work_experience": [
+    { "title": "","company": "", "location": "", "date": "", "duties": [] },
+  ]
 }
 ```
