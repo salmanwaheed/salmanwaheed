@@ -1,14 +1,17 @@
 # Generate resume via JSON
 
+```sh
+python3 generate-resume-markdown.py
+```
+
 ```json
 {
   "name": "Salman Waheed",
   "current_job_title": "Senior DevOps Engineer",
-  "number": "-",
-  "email": "-",
-  "location": "Karachi, Pakistan (Working Remotely)",
-  "industry": ["e-commerce", "fintech"],
-  "links": {
+  "contact": {
+    "location": "-",
+    "number": "-",
+    "email": "-",
     "github": "https://github.com/salmanwaheed",
     "linkedin": "https://linkedin.com/in/salman-w-a5b0a51a4",
     "youtube": "https://youtube.com/@salmanwaheed"

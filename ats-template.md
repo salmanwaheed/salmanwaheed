@@ -1,10 +1,12 @@
 # Your Name
 **Current Job Title**
 
-City, Country |
-Your Email |
-Phone Number |
-LinkedIn | GitHub (if applicable) | YouTube (if applicable)
+- Location: City, Country
+- Email: Your Email
+- Number: Phone Number
+- LinkedIn: URL
+- GitHub: URL  (if applicable)
+- YouTube: URL (if applicable)
 
 ## Professional Summary
 Brief 2-3 sentence summary highlighting your expertise and key skills.
