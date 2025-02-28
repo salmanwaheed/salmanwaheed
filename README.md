@@ -2,6 +2,7 @@
 
 ```sh
 python3 generate-resume-markdown.py
+python3 generate-resume-txt.py
 ```
 
 ```json

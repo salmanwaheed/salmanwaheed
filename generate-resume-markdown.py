@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/python3
 
 import json
 
@@ -29,7 +29,7 @@ with open(MD_FILE, 'w', encoding='utf-8') as md:
       md.write(f'- {duty}\n')
     md.write('\n')
 
-  md.write('## Education & Certifications\n')
+  md.write('## Education\n')
   for edu in data['education']:
     md.write(f'- {edu}\n')
 
