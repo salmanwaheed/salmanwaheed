@@ -15,7 +15,10 @@
   },
   "professional_summary": "Over 9 years of experience in E-commerce and FinTech, specializing in cloud infrastructure, automation, and CI/CD. Skilled in AWS, Terraform, Kubernetes, Docker, Ansible, Git, Jenkins, Linux, GitOps, SQL, and Bash scripting. Passionate about building secure, scalable, and efficient systems",
   "technical_skills": [
-    "AWS (EC2, S3, RDS, EKS, ECR, VPC, EBS, EFS, ALB, IAM, ACM, Route 53, Parameter Store, etc)", "Terraform", "Kubernetes", "Docker", "Ansible", "Git", "Linux", "Jenkins", "GitOps", "SQL", "Bash Scripting", "Prometheus", "Grafana", "Loki", "Promtail", "PromQL"
+    "AWS (EC2, S3, RDS, EKS, ECR, VPC, EBS, EFS, ALB, IAM, ACM, Route 53, Parameter Store, etc)",
+    "Terraform", "Kubernetes", "Docker", "Ansible", "Git", "Linux",
+    "Jenkins", "GitOps", "SQL", "Bash Scripting", "Prometheus", "Grafana",
+    "Loki", "Promtail", "PromQL"
   ],
   "education": [
     "B.Sc. Computer Science (2021)",
