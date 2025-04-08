@@ -1,4 +1,7 @@
 ```sh
 ➜ whoami
-salmanwaheed
+salmanwaheed - a senior devops engineer
+
+➜ latest-degree
+bachelor of science in computer science
 ```
