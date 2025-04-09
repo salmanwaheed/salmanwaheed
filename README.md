@@ -2,6 +2,6 @@
 ➜ whoami
 salmanwaheed - a senior devops engineer
 
-➜ latest-degree
+➜ degree --latest
 bachelor of science in computer science
 ```
