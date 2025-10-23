@@ -1,11 +1,10 @@
 ```sh
 ➜ whoami
-salmanwaheed - a senior devops engineer
+Salman Waheed - Senior DevOps Engineer
 
 ➜ degree --latest
-bachelor of science in computer science
+Bachelor of Science in Computer Science
 
 ➜ projects --top 2
 https://github.com/salmanwaheed/devops-projects
-https://github.com/salmanwaheed/aws-with-terraform
 ```
