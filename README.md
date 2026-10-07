@@ -1,6 +1,6 @@
 ```sh
 ➜ whoami
-Salman Waheed - Senior DevOps Engineer
+Salman Waheed - IT Project Manager
 
 ➜ degree --latest
 Bachelor of Science in Computer Science
